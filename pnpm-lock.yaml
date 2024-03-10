@@ -8,11 +8,11 @@ importers:
 
   .:
     dependencies:
-      '@fly/tea-api':
+      '@flyyyyy/tea-api':
         specifier: workspace:*
         version: link:tea-api
     devDependencies:
-      '@fly/tea-cli':
+      '@flyyyyy/tea-cli':
         specifier: workspace:*
         version: link:tea-cli
       vite:
@@ -27,7 +27,7 @@ importers:
 
   tea-cli:
     dependencies:
-      '@fly/tea-api':
+      '@flyyyyy/tea-api':
         specifier: workspace:*
         version: link:../tea-api
 

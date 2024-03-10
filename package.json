@@ -1,18 +1,24 @@
 {
-  "name": "@fly/tea-hello-world",
+  "name": "@flyyyyy/tea-hello-world",
   "private": false,
   "version": "1.0.0",
   "type": "module",
+  "author": "",
+  "license": "ISC",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fly/tea-api": "workspace:*"
+    "@flyyyyy/tea-api": "workspace:*"
   },
   "devDependencies": {
     "vite": "^5.1.4",
-    "@fly/tea-cli": "workspace:*"
+    "@flyyyyy/tea-cli": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srdwinu/tea-hello-world.git"
   }
 }
