@@ -1,5 +1,5 @@
 {
-  "name": "tea-hello-world",
+  "name": "@fly/tea-hello-world",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "tea-api": "workspace:*"
+    "@fly/tea-api": "workspace:*"
   },
   "devDependencies": {
     "vite": "^5.1.4",
-    "tea-cli": "workspace:*"
+    "@fly/tea-cli": "workspace:*"
   }
 }

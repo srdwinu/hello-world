@@ -1,5 +1,5 @@
 {
-  "name": "tea-cli",
+  "name": "@fly/tea-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tea-api": "workspace:*"
+    "@fly/tea-api": "workspace:*"
   }
 }
